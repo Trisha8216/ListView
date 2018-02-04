@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     ListView listView;
 
-    String countryName[]={"Bangladesh","India","Pakistan","Australia","New Zealand","Bangladesh","India","Pakistan","Australia","New Zealand","Bangladesh","India","Pakistan","Australia","New Zealand"};
+    String countryName[]={"Bangladesh","India","Pakistan","New Zealand","Bangladesh","India","Pakistan","Australia","New Zealand","Bangladesh","India","Pakistan","Australia","New Zealand"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
